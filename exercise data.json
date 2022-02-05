@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "7690",
+            "parent_exercise_id": null,
+            "name": "Pune/Bangalore/Sarjapur",
+            "slug": "residential-programmes__Pune-Bangalore-Sarjapur_md",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/residential-programmes/Pune-Bangalore-Sarjapur.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7691",
+            "parent_exercise_id": null,
+            "name": "Dharamshala",
+            "slug": "residential-programmes__Dharamshala_md",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/residential-programmes/Dharamshala.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7693",
+            "parent_exercise_id": null,
+            "name": "Delhi",
+            "slug": "residential-programmes__Delhi_md",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/residential-programmes/Delhi.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "7692",
+            "parent_exercise_id": null,
+            "name": "Tripura",
+            "slug": "residential-programmes__Tripura_md",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/residential-programmes/Tripura.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
